@@ -14,16 +14,16 @@ AWS-certified Cloud Support and IT professional with hands-on experience deployi
 
 ## Featured Projects
 
-### 🚀 CI/CD Pipeline — GitHub Actions + S3 + CloudFront
+### 🚀 [CI/CD Pipeline — GitHub Actions + S3 + CloudFront](https://github.com/joegreenwoodtech/aws-cicd-pipeline)
 Automated deployment pipeline that syncs a static site to AWS S3 and invalidates CloudFront on every push to main. Full deployment in under 15 seconds. Least-privilege IAM and GitHub Secrets for credential management.
 
-### 🌐 3-Tier Web Application on EC2 + RDS
+### 🌐 [3-Tier Web Application on EC2 + RDS](https://github.com/joegreenwoodtech/aws-ec2-rds-webapp)
 Production-style web app: Nginx and PHP on Ubuntu EC2 connected to a managed MySQL database on RDS. Configured VPC networking, security groups, and SSH access. Application displays live data queried directly from RDS.
 
-### 🏗️ Terraform VPC + EC2 Module
+### 🏗️ [Terraform VPC + EC2 Module](https://github.com/joegreenwoodtech/terraform-vpc-ec2)
 Reusable Terraform module that provisions a complete AWS network from code: VPC, public subnet, internet gateway, route table, security group, and EC2 instance. Demonstrates Infrastructure as Code principles and HCL fluency.
 
-### 📦 Static Website on S3 + CloudFront
+### 📦 [Static Website on S3 + CloudFront](https://github.com/joegreenwoodtech/aws-static-website)
 Personal portfolio deployed to AWS S3 with CloudFront as a global CDN for HTTPS delivery. Configured bucket policies, IAM permissions, and origin access controls.
 
 ## Certifications
