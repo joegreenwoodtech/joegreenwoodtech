@@ -1,6 +1,6 @@
 # Joe Greenwood
 
-**Cloud Engineer | AWS Certified | Terraform | CI/CD | Open to Remote**
+**Cloud Engineer | AWS Certified | Terraform | CI/CD | DevOps | Open to Remote**
 
 📍 Dallas-Fort Worth Metroplex • Open to Remote, U.S.
 📧 joegreenwood.tech@gmail.com
