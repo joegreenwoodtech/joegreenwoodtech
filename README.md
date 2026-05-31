@@ -30,8 +30,11 @@ Personal portfolio deployed to AWS S3 with CloudFront as a global CDN for HTTPS 
 
 ## Certifications
 
+- **AWS Solutins Architect Associate (In Progress)** - KodeKloud
+- **Linux Crash Course** - KodeKloud
 - **AWS Certified Cloud Practitioner** — Issued Nov 2025, valid through Nov 2028
 - **AWS re/Start Graduate** — Amazon Web Services
+- **Computer Hardware Basics** - Cisco Networking Academy
 - **Google Cybersecurity Professional Certificate** — Coursera
 - **Google IT Support Professional Certificate** — Coursera
 
